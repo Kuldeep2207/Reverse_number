@@ -7,6 +7,6 @@ int main(){
       rev= (rev*10) + num%10;
       num=num/10;
     }
-    printf("Reverse of the given number = %d",rev);
+    printf("Reverse  = %d",rev);
     return 0;
 }
